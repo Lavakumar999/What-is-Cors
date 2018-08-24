@@ -41,3 +41,8 @@ For enabling Cors we have to create one proxy JSON file to allow the required se
 ```
 "start": "ng serve --proxy--config proxy.config.json"  
 ```
+## Follow Me In:
+Linkedin : https://www.linkedin.com/in/lavakumar287/ <br/>
+FaceBook : https://www.facebook.com/lavakumar.lavakumar.9083 <br/>
+Quora : https://www.quora.com/profile/Lava-Kumar-100 <br/>
+Youtube: https://www.youtube.com/channel/UCnM3YeyV4d3ezuvFUYH7P0Q <br/> 
